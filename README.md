@@ -21,3 +21,6 @@ transactions across 3 years (2022–2024).
 - `ecommerce_sql_queries.sql` — 14 SQL queries
 - `Proj1.pbix` — Power BI dashboard
 - `ecommerce_transactions.csv` — 50,000 row dataset
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard_powerBI/page1.png)
